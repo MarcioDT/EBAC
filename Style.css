@@ -1,0 +1,16 @@
+h1{
+    color: black;
+    text-align: center;
+}
+
+h2{
+    color: rgba(25, 0, 245, 0.93);
+    text-align: left;
+}
+
+body {
+    background-color: powderblue;
+    background-image: url(./imagem/logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
